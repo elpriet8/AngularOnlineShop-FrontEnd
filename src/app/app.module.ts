@@ -14,7 +14,7 @@ import { PublicModule } from './@public/pages/public.module';
     BrowserModule,
     AdminModule,
     PublicModule,
-    AppRoutingModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
